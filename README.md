@@ -1,2 +1,2 @@
 # Sleep
-Swiftly put you mac into sleep mode
+Swiftly put your mac into sleep mode
